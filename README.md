@@ -1,7 +1,7 @@
 Advanced Android Sample App
 ===================================
 
-For Udacity Android Nanodegree. Add OpenWeatherMap Api key to gradel.properties file. Added an android wear watch face that syncs
+For Udacity Android Nanodegree. Add OpenWeatherMap Api key to gradle.properties file. Added an android wear watch face that syncs
 with the sunshine app. Data is pulled every 30 minutes from the mobile device to update the weather data. 
 
 
