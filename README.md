@@ -1,4 +1,4 @@
-Advanced Android Sample App
+Sunshine (Udacity App)
 ===================================
 
 For Udacity Android Nanodegree. Add OpenWeatherMap Api key to gradle.properties file. Added an android wear watch face that syncs
@@ -6,6 +6,12 @@ with the sunshine app. Data is pulled every 30 minutes from the mobile device to
 
 
 Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
+
+
+## Screenshots
+
+<img src="/screenshots/Screenshot_20160814-113010.png" alt="image" width="300">
+<img src="/screenshots/Screenshot_20160814-114325.png" alt="image" width="300">
 
 Pre-requisites
 --------------
